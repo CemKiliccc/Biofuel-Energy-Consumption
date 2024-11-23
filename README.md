@@ -79,3 +79,4 @@ Proje şu temel adımlarla yürütülmüştür:
 
 
 NOT: Kaggleda yapılan kod ve anlatımları atılan açılan sayfadan  'biofuel-consumption.ipynb' isimli dosyayı açarak içeriğe ulaşabilirsiniz.
+Kaggle Profil Linki : https://www.kaggle.com/cemkilic
